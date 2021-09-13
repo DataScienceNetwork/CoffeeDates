@@ -9,7 +9,8 @@ Get to know your fellow data scientist colleques!
 -  Meetings should be evenly distributed for each person
 
 
-## Further development
+## Further development ideas
 - Implement peoples vacation time
 - Check peoples calenders and find the best time
 - Automatic meeting creation in outlook
+- Enable matching for the entire organisation - meet a random colleague

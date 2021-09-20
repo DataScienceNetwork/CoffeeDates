@@ -11,6 +11,7 @@ Get to know your fellow data scientist colleques!
 
 ## Further development ideas
 - Implement peoples vacation time
+- Make it continuous
 - What if new people enter the network?
 - Check peoples calenders and find the best time
 - Automatic meeting creation in outlook

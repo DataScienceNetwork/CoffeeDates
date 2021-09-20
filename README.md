@@ -11,6 +11,7 @@ Get to know your fellow data scientist colleques!
 
 ## Further development ideas
 - Implement peoples vacation time
+- What if new people enter the network?
 - Check peoples calenders and find the best time
 - Automatic meeting creation in outlook
 - Enable matching for the entire organisation - meet a random colleague

@@ -1,18 +1,19 @@
-# CoffeeDates
-Coffee date assignment algorithm
+CoffeeDates
+-----------
+
+Coffee date assignment algorithm.
 Get to know your fellow data scientist colleques!
 
-
 ## Constraints
--  Everyone must meet with everyone else exactly once
--  Every person must have at least one meeting per week
--  Meetings should be evenly distributed for each person
 
+* Each person must meet with every other person exactly once.
+* Each person must have a least one meeting per week.
+* Meetings should be evenly distributed for each person.
 
 ## Further development ideas
-- Implement peoples vacation time
-- Make it continuous
-- What if new people enter the network?
-- Check peoples calenders and find the best time
-- Automatic meeting creation in outlook
-- Enable matching for the entire organisation - meet a random colleague
+
+* Take each person's vacation days into account.
+* Make it continuous.
+* Take into account, that new people may enter the network later on.
+* Assign time slots based on Outlook calendars.
+* Automatic Outlook meeting creation.
